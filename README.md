@@ -12,9 +12,27 @@ This system empowers receptionists to efficiently manage various aspects of pati
 - **Billing:** The system enables receptionists to generate bills for services rendered, ensuring transparent and efficient billing processes.
 - **Room/Bed Booking:** Receptionists can manage the allocation of rooms/beds within the hospital, optimizing resource utilization.
 - **Doctor Schedule:** Doctors can access their schedules through the system, enabling them to manage their time effectively.
+- **Medication Database:** Medications can be looked up and bought though the system, reducing the reliance on different systems for medication.
 
 ## Screenshots
+### Dashboard
 ![Screenshot 1](https://i.postimg.cc/T1nmJ0tF/Designer-6-05-33-AM.png)
+
+### Booking Appointment Flow
+[![Screen1.jpg](https://i.postimg.cc/pVKMMc41/Screen1.jpg)](https://postimg.cc/grcTvsYv)
+
+### Patient flow
+[![Screen2.jpg](https://i.postimg.cc/YqkKrfw2/Screen2.jpg)](https://postimg.cc/s1n0KWXb)
+
+### Doctors and room flow
+[![Screen3.jpg](https://i.postimg.cc/rwnvNBRz/Screen3.jpg)](https://postimg.cc/WdZW2fnP)
+
+### Medication Flow
+[![Screen4.jpg](https://i.postimg.cc/pLXw8WTg/Screen4.jpg)](https://postimg.cc/7fdtrySV)
+
+### Report Flow
+[![Screen5.jpg](https://i.postimg.cc/SNr0J2y6/Screen5.jpg)](https://postimg.cc/QHHYzMKC)
+
 
 ## Installation
 To install and run the Hospital Management System on your local machine, follow these steps:
